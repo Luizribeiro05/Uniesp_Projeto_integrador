@@ -1,0 +1,22 @@
+hr{color: blue;
+}
+
+h3{margin-left: 250px; 
+	color: blue;
+}
+
+body{background-image: url("Doc-cao.gif");
+	background-size: cover;
+	}
+
+	.primeiro{
+	color: red
+}
+
+.segundo{
+	color:yellowgreen;
+}
+
+#id2{
+	color: green;
+}
